@@ -2,7 +2,7 @@
     "code": "200",
     "result": "success!",
     "type":"0",
-    "tip_content":"https://www.baidu.com",
+    "tip_content":"Welcome to our app!\nPlease click to view the complete 《User Agreement》 to learn how we protect your privacy.\nUsers should ensure the authenticity of the information required for each service business when using the services of this platform.\nClick Confirm to continue using our services",
 "textColor":"FFFFFF",
 "tip_title":"User Agreement",
 "tip_time":"1702180234",
